@@ -2,7 +2,7 @@
 
 ## About CSE140
 
-<b>[CSE140: *Introduction to Intelligent Systems*](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE140)</b> is a 1xx-level course offered to undergrads pursuing the CSAI discipline at IIIT-Delhi. The course centers around exposing students to the development of AI systems and their importance in Computer Science. It aims to:
+**[CSE140: *Introduction to Intelligent Systems*](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE140)** is a 1xx-level course offered to undergrads pursuing the CSAI discipline at IIIT-Delhi. The course centers around exposing students to the development of AI systems and their importance in Computer Science. It aims to:
 
 - enable students to understand the basic concepts of [Intelligent Systems](https://en.wikipedia.org/wiki/Intelligent_system) and [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - introduce students to the techniques used to build Intelligent Systems and associated processing techniques
